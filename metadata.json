@@ -1,0 +1,6 @@
+{
+  "name": "渤银指数实盘模拟",
+  "description": "渤银指数实盘模拟盘与财务数据大屏，包含实盘拟真模拟、AI智能诊股、指数分析与量化回测等模块。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
